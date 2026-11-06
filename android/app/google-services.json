@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095174378481",
+    "project_id": "alerta-ti-7b8ee",
+    "storage_bucket": "alerta-ti-7b8ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095174378481:android:b996140ff682753e75ea50",
+        "android_client_info": {
+          "package_name": "br.edu.cesupa.alerta_ti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYid-jJEfoTkn7kInGrC9Q7ppTajUjiV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
